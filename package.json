@@ -1,10 +1,10 @@
 {
-  "name": "simple-node-website",
+  "name": "projectx",
   "version": "0.1.0",
-  "description": "A simple website built with Node, Express and Pug",
+  "description": "Node app with Express and Pug",
   "main": "server.js",
   "scripts": {
-    "start": ""
+    "start": "npx nodemon server.js"
   },
   "author": "Ayo Isaiah",
   "license": "MIT",
