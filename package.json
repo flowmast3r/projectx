@@ -1,24 +1,16 @@
 {
-<<<<<<< HEAD
   "name": "projectx",
   "version": "0.1.0",
   "description": "Node app with Express and Pug",
   "main": "server.js",
   "scripts": {
     "start": "npx nodemon server.js"
-=======
-  "name": "simple-node-website",
-  "version": "0.1.0",
-  "description": "A simple website built with Node, Express and Pug",
-  "main": "server.js",
-  "scripts": {
-    "start": ""
->>>>>>> e54d5fd25fb0ef9ff936ea175f7ea937359b2673
   },
   "author": "Ayo Isaiah",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
+    "pexels": "^1.0.1",
     "pug": "^2.0.3"
   },
   "devDependencies": {
